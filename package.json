@@ -1,5 +1,5 @@
 {
-  "name": "jquery-cdn-shim",
+  "name": "jquery",
   "version": "0.0.1",
   "description": "Browserify Jquery CDN Shim",
   "main": "index.js",
