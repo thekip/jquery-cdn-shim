@@ -1,1 +1,1 @@
-module.exports = jquery;
+module.exports = jQuery;
