@@ -1,0 +1,24 @@
+{
+  "name": "jquery-cdn-shim",
+  "version": "0.0.1",
+  "description": "Browserify Jquery CDN Shim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekip/jquery-cdn-shim.git"
+  },
+  "keywords": [
+    "browserify",
+    "jquery",
+    "shim"
+  ],
+  "author": "thekip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thekip/jquery-cdn-shim/issues"
+  },
+  "homepage": "https://github.com/thekip/jquery-cdn-shim#readme"
+}
